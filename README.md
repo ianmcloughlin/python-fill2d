@@ -11,4 +11,4 @@ rgba colours are used.
 
 3. Plot cos squared and sin squared instead.
 
-4. Instead of filling the area between cos squared and the x axis, fill the area between sin squared and cos squared.
+4. Instead of filling the area between cos squared and the x axis, fill the area between sin squared, and sin squared plus cos squared.
