@@ -12,3 +12,5 @@ rgba colours are used.
 3. Plot cos squared and sin squared instead.
 
 4. Instead of filling the area between cos squared and the x axis, fill the area between sin squared, and sin squared plus cos squared.
+
+5. Create three subplots, one stacked on top of the other. In the first subplot show sin(x) squared, in the second show cos(x) squared, and in the third show the plot in exercise 4.
